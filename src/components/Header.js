@@ -6,7 +6,7 @@ export default function Header() {
     <AppBar position="static">
       <Toolbar>
         <Typography variant="h6" noWrap>
-          React Kurs
+          React Kurs hello hallo
         </Typography>
       </Toolbar>
     </AppBar>
